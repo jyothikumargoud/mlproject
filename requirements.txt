@@ -4,4 +4,8 @@ seaborn
 scikit-learn
 matplotlib
 dill
+caboost
+xgboost
+essemble
+r2_score
 -e .
