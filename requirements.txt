@@ -8,4 +8,5 @@ caboost
 xgboost
 essemble
 r2_score
+flask
 -e .
